@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/inbox/page": "app/inbox/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/settings/page": "app/settings/page.js"
+}
