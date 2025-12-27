@@ -6,6 +6,30 @@ An AI-powered multi-agent system for automated customer complaint resolution, bu
 
 [Demo Files](https://drive.google.com/drive/folders/1Mrb9AVW5UmNW1Ashn0A9CxLbZUb3bPww?usp=drive_link)
 
+## Screenshots
+### Business Page with Chatbot
+![Dashboard Overview](Screenshots/Screenshot%201.png)
+
+### Complaint Inbox
+![Complaint Inbox](Screenshots/Screenshot%202.png)
+
+### Complaint Details
+![Complaint Detail View](Screenshots/Screenshot%203.png)
+
+### AI Response Generation
+![AI Response](Screenshots/Screenshot%204.png)
+
+### Help box
+![Help Box](Screenshots/Screenshot%205.png)
+
+### Agent Performance
+![Agent Performance Metrics](Screenshots/Screenshot%206.png)
+
+### New Complaint Form
+![Submit Complaint](Screenshots/Screenshot%207.png)
+
+### Customer History
+![Customer History](Screenshots/Screenshot%208.png)
 ## 🏗️ Architecture
 ### Complete Request Flow: ✓ WORKING
 
@@ -121,30 +145,6 @@ An AI-powered multi-agent system for automated customer complaint resolution, bu
 └─────────────────────────────────────────────────────┘
 ```
 
-## Screenshots
-### Business Page with Chatbot
-![Dashboard Overview](Screenshots/Screenshot%201.png)
-
-### Complaint Inbox
-![Complaint Inbox](Screenshots/Screenshot%202.png)
-
-### Complaint Details
-![Complaint Detail View](Screenshots/Screenshot%203.png)
-
-### AI Response Generation
-![AI Response](Screenshots/Screenshot%204.png)
-
-### Help box
-![Help Box](Screenshots/Screenshot%205.png)
-
-### Agent Performance
-![Agent Performance Metrics](Screenshots/Screenshot%206.png)
-
-### New Complaint Form
-![Submit Complaint](Screenshots/Screenshot%207.png)
-
-### Customer History
-![Customer History](Screenshots/Screenshot%208.png)
 
 
 
