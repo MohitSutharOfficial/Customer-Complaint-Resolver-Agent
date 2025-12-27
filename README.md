@@ -146,8 +146,6 @@ An AI-powered multi-agent system for automated customer complaint resolution, bu
 ```
 
 
-
-
 ## 🚀 Features
 
 ### AI Agents
@@ -339,19 +337,6 @@ GDG/
    - If validation passes → Auto-send or queue for human review
    - If validation fails → Escalate to human agent with context
 
-## 🧪 Testing
-
-### Backend Tests
-```bash
-cd backend
-pytest
-```
-
-### Frontend Tests
-```bash
-cd frontend
-npm run test
-```
 
 ## 🔧 Configuration
 
